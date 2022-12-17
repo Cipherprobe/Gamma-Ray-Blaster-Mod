@@ -45,7 +45,7 @@ description='''
 
 A mod that adds a Gamma Ray blaster to Minecraft, one of the most overpowered weapons in the game.
 
-Also adds counters to the gamma ray blaster, can't have you running around spamming it :)
+Also adds materials needed for the blaster, as well as counters to the blaster.
 
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
