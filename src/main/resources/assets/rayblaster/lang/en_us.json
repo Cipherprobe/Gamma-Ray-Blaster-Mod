@@ -3,5 +3,9 @@
   "item.rayblaster.raw_nuclegon": "Raw Nuclegon",
   "item.rayblaster.excited_uranium": "Uranium-238",
   "item.rayblaster.raw_uranium": "Raw Uranium",
+  "block.rayblaster.nuclegon_ore": "Nuclegon Ore",
+  "block.rayblaster.uranium_ore": "Uranium Ore",
+  "block.rayblaster.deepslate_nuclegon_ore": "Deepslate Nuclegon Ore",
+  "block.rayblaster.deepslate_uranium_ore": "Deepslate Uranium Ore",
   "item_group.rayblaster.rayblaster": "Gamma Ray Blaster + Materials"
 }
